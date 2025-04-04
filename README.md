@@ -12,7 +12,7 @@ This repository serves as a playground for different AI experiments. Each experi
 
 This experiment demonstrates how to finetune the image encoder of a CLIP (Contrastive Language-Image Pre-training) model using a supervised contrastive learning approach for image classification (cats vs. dogs).
 
-**[Go to the detailed documentation for CLIP Finetuning](src/docs/finetune_clip.md)**
+**[Go to the detailed documentation for CLIP Finetuning](src/finetune_clip.md)**
 
 
 **(Future Experiments will be listed here with similar links)**
